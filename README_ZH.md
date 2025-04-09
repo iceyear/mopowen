@@ -6,8 +6,6 @@
 
 </div>
 
-*最后更新: 2025-04-09 07:17:59 UTC by [@iceyear](https://github.com/iceyear)*
-
 ## 📚 概述
 
 本插件通过实现自适应深度休眠机制来延长 Mobiscribe 电纸书的电池寿命。与使用固定休眠延迟的 [原始 nopowen 脚本](https://github.com/Codereamp/nopowen) 不同，这个增强版本会根据您的实际阅读模式动态调整休眠时间。
