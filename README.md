@@ -4,7 +4,7 @@
 
 <a title="hits" target="_blank" href="https://github.com/iceyear/mopowen"><img src="https://hits.b3log.org/iceyear/mopowen.svg" ></a> ![GitHub contributors](https://img.shields.io/github/contributors/iceyear/mopowen) ![GitHub License](https://img.shields.io/github/license/iceyear/mopowen)
 
-English &nbsp;&nbsp;|&nbsp;&nbsp; [简体中文](README_CN.md)
+English &nbsp;&nbsp;|&nbsp;&nbsp; [简体中文](README_ZH.md)
 
 </div>
 
